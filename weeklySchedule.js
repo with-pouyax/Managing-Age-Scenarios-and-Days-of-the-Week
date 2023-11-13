@@ -1,6 +1,6 @@
 var day = "sunday";
 
-switch(place){
+switch(day){
     case 'Monday' :
     console.log("Do something")
     break;
@@ -22,6 +22,5 @@ switch(place){
     console.log("Do something")
     default:
         console.log("There is no such day")
-
 
 }
